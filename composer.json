@@ -1,0 +1,15 @@
+{
+    "name": "Deck Transfer Ownership",
+    "description": "Change deck entities ownership",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Serhii Shliakhov"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
